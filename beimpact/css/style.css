@@ -9,6 +9,11 @@
 .text{
 	text-align: justify;
 }
+
+.logo{
+	float:left;
+	margin-right:10px;
+}
 /* =======================================================
 *
 * 	Template Style 
