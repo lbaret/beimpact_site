@@ -5,6 +5,10 @@
   font-weight: normal;
   font-style: normal;
 }
+
+.text{
+	text-align: justify;
+}
 /* =======================================================
 *
 * 	Template Style 
@@ -564,7 +568,7 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   width: 100%;
   display: block;
-  float: left;
+  /*float: left;*/
 }
 .watch-video span {
   display: block;
